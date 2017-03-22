@@ -1,4 +1,5 @@
-React js + Meteor Template + STORM PATH
+# An apllicaion full stack using React + Meteor Template + STORMPATH
+
 **Unix Environment Variables:**
 
 ```bash
